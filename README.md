@@ -1,13 +1,20 @@
-OptiType Batch Processing
+
+
+# OptiType Batch Processing
+
 This repository contains a simple Bash script to run OptiType on multiple paired-end FASTQ samples automatically.
 
-Requirements
-OptiType installed
-Python 3
-FASTQ files in gzip format
-Input Files
-Place your paired-end FASTQ files inside the SRA_Input folder.
-Each sample should be named like this: SAMPLE_1.fastq.gz SAMPLE_2.fastq.gz
+## Requirements
+- OptiType installed
+- Python 3
+- FASTQ files in gzip format
+
+## Input Files
+Place your paired-end FASTQ files inside the `SRA_Input` folder.  
+Each sample should be named like this:
+SAMPLE_1.fastq.gz
+SAMPLE_2.fastq.gz
+
 
 Example samples:
 
@@ -18,6 +25,7 @@ SRR064286
 SRR292246
 
 SRR292249
+
 
 Output
 
