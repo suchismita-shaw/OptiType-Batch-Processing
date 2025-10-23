@@ -42,3 +42,5 @@ SRA_Output/
 ├── SRR292246/
 
 └── SRR292249/
+
+Each folder will contain the OptiType result files (result.tsv)
